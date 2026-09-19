@@ -1,0 +1,6 @@
+{
+  "name": "Arax",
+  "description": "Native Android APK wrapper for Arax AI Theater Progressive Web App",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

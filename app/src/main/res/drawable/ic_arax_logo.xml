@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="100dp"
+    android:viewportWidth="200"
+    android:viewportHeight="100">
+
+    <!-- Deep Black Background -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M0,0h200v100h-200z" />
+
+    <!-- Outer Golden/Amber Badge Contour -->
+    <!-- The outer stadium contour with the right-hand Alif protrusion characteristic of Arax logo -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF9F0A"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 44,28
+                         L 156,28
+                         C 160,28 163,31 165,35
+                         L 174,35
+                         C 178,35 181,38 181,42
+                         L 181,64
+                         L 168,76
+                         L 156,76
+                         C 152,80 146,82 140,82
+                         L 44,82
+                         C 28,82 16,70 16,55
+                         C 16,40 28,28 44,28 Z" />
+
+    <!-- Outer Right Alif Column Accents -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF9F0A"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 166,35 L 166,66 L 155,75" />
+
+    <!-- Center Loop and Connecting Bridge -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF9F0A"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 125,36
+                         L 154,36
+                         L 154,64
+                         L 138,72
+                         L 104,72
+                         C 96,72 90,66 90,58
+                         L 90,48
+                         C 90,40 98,36 106,36
+                         L 125,36" />
+
+    <!-- Inner Stylized Persian 'Seen' and 'Kaf' Typographic Channels (Letter Teeth & Loop) -->
+    <!-- First upper channel -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF9F0A"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 34,42
+                         L 80,42
+                         C 84,42 86,44 86,48
+                         L 86,64
+                         C 86,68 82,72 78,72
+                         L 42,72
+                         C 34,72 28,66 28,58
+                         C 28,50 34,44 42,44" />
+
+    <!-- Triple Teeth of 'Seen' -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF9F0A"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 46,44 L 46,62" />
+
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF9F0A"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 58,44 L 58,62" />
+
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF9F0A"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 70,44 L 70,62" />
+
+    <!-- Center Geometric Diagonal Connector -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF9F0A"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 106,46 L 140,46 L 140,58 L 126,64 L 106,64 Z" />
+
+</vector>
