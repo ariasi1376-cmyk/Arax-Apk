@@ -52,11 +52,9 @@ fun AraxErrorView(
             verticalArrangement = Arrangement.Center
         ) {
             Image(
-                painter = painterResource(id = R.drawable.ic_arax_logo),
+                painter = painterResource(id = R.drawable.arax_pwa),
                 contentDescription = null,
-                modifier = Modifier
-                    .width(160.dp)
-                    .height(80.dp)
+                modifier = Modifier.size(120.dp)
             )
 
             Spacer(modifier = Modifier.height(32.dp))
